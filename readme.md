@@ -1,7 +1,7 @@
 # Traffic sign detection CNN.
-## Dataset nằm trong đường dẫn này: https://github.com/Ali-Jakhar/Traffic-Sign-Detection-And-Recognition
+## Dataset nằm trong đường dẫn này: [dataset](https://github.com/Ali-Jakhar/Traffic-Sign-Detection-And-Recognition)
 * Bộ dataset German Traffic Sign Recognition Benchmark
-Do không có nhiều thời gian nên việc thu thập dữ liệu là rất khó, vì vậy tôi đã sử dụng bộ dữ liệu nhận diện biển báo giao thông có sẵn “German Traffic Sign Recognition Benchmark”.
+- Do không có nhiều thời gian nên việc thu thập dữ liệu là rất khó, vì vậy tôi đã sử dụng bộ dữ liệu nhận diện biển báo giao thông có sẵn “German Traffic Sign Recognition Benchmark”.
 - Tập data bao gồm hơn 39,209 ảnh được chụp trên đường phố nước Đức.
 - Chia thành 43 lớp loại khác nhau của Traffic-sign.
 - Kích thước của traffic signs trong tập này dao động từ 15×15 đến 222×193 pixel.
